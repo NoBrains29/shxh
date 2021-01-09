@@ -16,8 +16,8 @@ body {
 #header {
   width: 100%;
   height: auto;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(25, 25, 25, 0.3)), to(rgba(25, 25, 25, 0.9))), url(images/header2.jpg);
-  background: linear-gradient(rgba(25, 25, 25, 0.3), rgba(25, 25, 25, 0.9)), url(images/header2.jpg);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(25, 25, 25, 0.3)), to(rgba(25, 25, 25, 0.9))), url(images/headerbg.jpeg);
+  background: linear-gradient(rgba(25, 25, 25, 0.3), rgba(25, 25, 25, 0.9)), url(images/headerbg.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -28,7 +28,7 @@ body {
 }
 
 #header nav .navbar-brand {
-  color: #e0dfdc;
+  color: #D08702;
   font-size: 2rem;
 }
 
